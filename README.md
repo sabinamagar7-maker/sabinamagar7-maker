@@ -7,7 +7,8 @@ I build analytical dashboards and data stories using Power BI, SQL, and Python.
 .  
 
 ## Skills
-- Power BI & DAX  
+- Power BI & DAX
+- Excel/Google Sheet(Pivot Table, VLookup, Data Validation, Dashboard) 
 - SQL   
 - Data Warehouse Design  
 - Category and Commercial Analysis  
