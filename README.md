@@ -14,7 +14,7 @@ I build analytical dashboards and data stories using Power BI, SQL, and Python.
 - Category and Commercial Analysis  
 
 ## Featured Projects
-- [Commercial & Operation Analysis](https://github.com/sabinamagar7-maker/Restaurant-Revenue-Pricing-and-Operations-Analysis)
+- [Category manaegement and Product Analysis](https://github.com/sabinamagar7-maker/Product-Portfolio-Performance-Assortment-Optimization-Analysis)
 - [Pricing & Consumer Analysis](https://github.com/sabinamagar7-maker/ecommerce-pricing-customer-analysis)
 
 ## Opportunities I'm Looking For
