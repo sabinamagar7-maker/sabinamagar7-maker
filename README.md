@@ -7,11 +7,15 @@ I build analytical dashboards and data stories using Power BI, SQL, and Python.
 .  
 
 ## Skills
-- Power BI & DAX
+- Power BI , Power Query & DAX
 - Excel/Google Sheet(Pivot Table, VLookup, Data Validation, Dashboard) 
 - SQL   
-- Data Warehouse Design  
-- Category and Commercial Analysis  
+- Data Warehouse Design and ETL Workflows  
+- Category and Commercial Analysis
+- Pricing Analysis
+- Budget Forecasting
+- KPIs & Dashboard Reporting
+- Stakeholder Communication  
 
 ## Featured Projects
 - [Category manaegement and Product Analysis](https://github.com/sabinamagar7-maker/Product-Portfolio-Performance-Assortment-Optimization-Analysis)
