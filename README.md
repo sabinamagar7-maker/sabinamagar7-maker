@@ -23,14 +23,6 @@ I build analytical dashboards and data stories using Power BI, SQL, and Python.
 
 ## Opportunities I'm Looking For
 
-I'm currently open to roles such as:
-
-- Junior Data Analyst  
-- Business Intelligence Analyst  
-- Category Management Analyst    
-- Analytics / Reporting Specialist  
-- Operations Analyst (data-focused)
-
 I’m especially interested in roles where I can work on analytical problem‑solving, turning messy data into clear insights that support commercial and operational decisions.
 
 I enjoy roles that involve:
@@ -40,7 +32,7 @@ I enjoy roles that involve:
 - Designing analytical structures (semantic layers, data marts) that make data easier to use  
 - Exploring patterns in customer, product, or operational data to tell a story  
 
-I typically work with tools like Power BI, SQL, and Python — but the real value for me is in **thinking analytically**, structuring data, and creating clarity.
+I typically work with tools like Google Sheet, Power BI, SQL, and Python but the real value for me is in **thinking analytically**, structuring data, and creating clarity.
 
 
 
