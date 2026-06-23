@@ -1,6 +1,6 @@
 #  Hi, I'm Sabina Thapa Magar  
 
-🎓 MSc Economics | Data Analyst | Business & Operations Management  
+🎓 MSc Economics | Junior Category & Pricing Analyst | Data-driven, analytical, commercial mindset 
 📍 Based in Bochum, Germany  
 
 I build analytical dashboards and data stories using Power BI, SQL, and Python.  
